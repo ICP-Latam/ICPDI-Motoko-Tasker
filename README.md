@@ -4,10 +4,14 @@ Bienvenido a mi proyecto de certificación para la certificación ICP Developer 
 
 La idea es muy simple, un servicio donde se puedan crear muchas tareas (Taks) por usuario, puedas actualizar su estatus a completadas, siempre validando que solo el usuario creador pueda obtenerlas y actualizarlas, las funciones disponibles son:
 
--createUserTask: crea una nueva task con base a una descripción
--getTaskById: obtiene una task con base a un id enviado
--getUserTaks: obtiene todas las tasks creadas por el usuario
--UpdateTask: actualiza una task con base al id enviado
+### createUserTask: 
+- crea una nueva task con base a una descripción
+### getTaskById: 
+- obtiene una task con base a un id enviado
+### getUserTaks: 
+- obtiene todas las tasks creadas por el usuario
+### UpdateTask: 
+- actualiza una task con base al id enviado
 
 ## Prerequisitos
 
